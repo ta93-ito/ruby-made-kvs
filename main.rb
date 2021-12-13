@@ -2,4 +2,4 @@
 
 require './server'
 
-server_start
+BasicServer.new
